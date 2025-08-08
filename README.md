@@ -4,11 +4,11 @@ Este proyecto es parte del programa **ONE - Oracle Next Education** de Alura y c
 
 ##  Descripción
 
-La aplicación permite agregar nombres de participantes, eliminarlos si es necesario y realizar un sorteo aleatorio, asegurando que nadie se asigne a sí mismo.
+La aplicación permite agregar nombres de participantes y realizar un sorteo aleatorio, asegurando que nadie se asigne a sí mismo.
 
 ## Características
 
-- Agregar y eliminar participantes.
+- Agregar participantes.
 - Sorteo automático de amigo secreto.
 - Interfaz simple y fácil de usar.
 
@@ -36,11 +36,11 @@ This project is part of the **ONE - Oracle Next Education** program by Alura. It
 
 ## Description
 
-The app lets you add, remove participants, and perform a random draw, ensuring no one gets themselves.
+The app lets you add participants, and perform a random draw, ensuring no one gets themselves.
 
 ##  Features
 
-- Add and remove participants.
+- Add participants.
 - Automatic secret friend draw.
 - Simple and user-friendly interface.
 
@@ -59,3 +59,4 @@ The app lets you add, remove participants, and perform a random draw, ensuring n
 ##  Credits
 
 Developed as part of the **ONE - Oracle Next Education** program.
+
